@@ -1,6 +1,8 @@
 # CSC_OS_class_projects
 Operation System Class Projects
 
+## There is a README.md in each indvidual project's folder that will explain more about the project.
+
 Project01
 ---------------------------
 
