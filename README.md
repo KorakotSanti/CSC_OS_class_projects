@@ -33,3 +33,11 @@ Consists of two C program and one bash script
 Project05
 ----------
 
+Consists of seven total C++ programs
+- five of the C++ programs are five different version of the same program from version 1 with no forking involved to version 5 where there it is exclusively forking + piping
+- two of the C++ programs are helper function
+
+Project06
+-----------
+
+Consists of 
